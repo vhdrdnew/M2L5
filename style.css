@@ -13,7 +13,7 @@ body {
 header {
     width: 100%;
     height: 100vh;
-    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaejyza-yyhc03EuVvG5MPDbmKWje5U0-WtQ&s);
+    background: url(header_bg.wbp);
     background-size: cover;
     display: flex;
 }
